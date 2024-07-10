@@ -12,7 +12,10 @@ Before
 After
 
 
-![clean_19_9](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/120008e6-9257-4402-ad9f-5f3cfbca2e0e)   ![clean_52_7](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/72d9bf45-f715-49df-8418-569438624aba)
+![clean_19_9](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/120008e6-9257-4402-ad9f-5f3cfbca2e0e)   ![clean_52_7](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/72d9bf45-f715-49df-8418-569438624aba)   ![clean_64_4](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/82b6cf53-860e-4619-8f0e-20cd2aacf965)   ![clean_217_4](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/e10e63d3-ccb4-4362-856d-003a7212916f)   ![clean_326_0](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/0f2b39bd-e6ec-46ca-8072-fc70b3308e39)
+
+
+
 
 
   
