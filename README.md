@@ -39,5 +39,7 @@ After that I have plot the T-SNE plots of the entire dataset
 ![image](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/2049b176-131b-418e-bf60-7bb1dc13d157)
 
 
+You can acesss the dataset from here : https://drive.google.com/file/d/17nsLFjJxfcf9UPoNjeBjovfi4AL7EGKB/view?usp=sharing
+
 
   
