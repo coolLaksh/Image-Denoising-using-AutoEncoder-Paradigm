@@ -18,8 +18,8 @@ After
 To do this I have use Mainly Two AutoEncoder :
 
 
-    1. Classical Autoencoder with ResNet Design
-    2. Variational Autoencoder
+  1. Classical Autoencoder with ResNet Design
+  2. Variational Autoencoder
 
 
 
