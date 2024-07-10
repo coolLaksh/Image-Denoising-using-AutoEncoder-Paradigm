@@ -1,7 +1,7 @@
 # Image-Denoising-using-AutoEncoder-Paradigm
 
 
-In this project, I am using the Autoencoder Paradigm to denoise images. The encoder-decoder architecture, commonly used in deep learning, is particularly effective for image denoising tasks. The encoder compresses the input image into a lower-dimensional representation, capturing its essential features while removing noise. The decoder then reconstructs the image from this representation, restoring the original details and further eliminating any remaining noise.
+In this project, I am using the Autoencoder Paradigm to denoise images. The Autoencoder architecture, commonly used in deep learning, is particularly effective for image denoising tasks. The encoder compresses the input image into a lower-dimensional representation, capturing its essential features while removing noise. The decoder then reconstructs the image from this representation, restoring the original details and further eliminating any remaining noise.
 
 Here is a sample of how the images look before and after the denoising process:
 
