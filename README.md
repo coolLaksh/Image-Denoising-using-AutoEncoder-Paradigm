@@ -32,7 +32,9 @@ Results:
   1. Resnet AutoEncoder ssim score :  0.7043934555175253
   2. VAE AutoEncoder ssim score :  0.8554861151928369
 
-After that I have plot the T-SNE plots of the entire dataset ![image](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/2049b176-131b-418e-bf60-7bb1dc13d157)
+After that I have plot the T-SNE plots of the entire dataset
+
+![image](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/2049b176-131b-418e-bf60-7bb1dc13d157)
 
 
 
