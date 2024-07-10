@@ -12,5 +12,7 @@ Before
 After
 
 
+![clean_19_9](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/120008e6-9257-4402-ad9f-5f3cfbca2e0e)   ![clean_52_7](https://github.com/coolLaksh/Image-Denoising-using-Encoder-Decoder-Paradigm/assets/116641733/72d9bf45-f715-49df-8418-569438624aba)
+
 
   
