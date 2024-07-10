@@ -21,6 +21,12 @@ To do this I have use Mainly Two AutoEncoder :
   1. Classical Autoencoder with ResNet Design
   2. Variational Autoencoder
 
+Metric used in this process SSI score(structure similarity score ,a method for predicting the perceived quality of digital television and cinematic pictures, as well as other kinds of digital images and videos)
+
+Data Preprocessing :
+    For data preprocessing, I was using Difference of Gaussian beacuse this method is more sophisticated as it smooths the image while preserving edges based on both spatial and intensity information, often outperforming DoG in terms of edge preservation but at the cost of higher computational complexity.
+
+
 
 
 
